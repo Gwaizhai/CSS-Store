@@ -429,12 +429,12 @@ body {
     position: absolute;
     left: 0px;
     top: 3px;
-    background: url('./assets/images/listing/circle.png') no-repeat;
+    background: url('../images/circle.png') no-repeat;
     border-radius: 50%;
 }
 
 .Work_options .Work_Radio:checked~.customRadio {
-    background: url('./assets/images/listing/right_tick.png') no-repeat;
+    background: url('../images/right_tick.png') no-repeat;
 }
 
 
@@ -795,7 +795,7 @@ body {
 }
 
 .moreOptionRSP {
-    background-image: url('./../images/listing/Notification_BG.png');
+    background-image: url('../images/Notification_BG.png');
     background-position-y: 100%;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -911,7 +911,7 @@ body {
 #navbarNav .nav-link:hover,
 .header_nav_icon.active .nav-link {
     color: #fff !important;
-    background-image: url('./../images/header_icon/active_menu.svg');
+    background-image: url('../images/active_menu.svg');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center 30px;
